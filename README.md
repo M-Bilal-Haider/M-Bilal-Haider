@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+I am working as Sr. Software Engineer with over 10 years experience in engineering including iOS dev, Android dev, machine learning and blockchain.
+out of which 8 years comprise of iOS/Android while all of it consists of cloud and good engineering architectures/practices.
+
+Looking forward to always learn and grow with likely minded people. reach out to me at ##bilalhaider@live.com
+
+or find my [latest CV here](https://github.com/M-Bilal-Haider/M-Bilal-Haider/blob/main/Bilal_Haider-CV.pdf)
+
 <!--
 **M-Bilal-Haider/M-Bilal-Haider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
